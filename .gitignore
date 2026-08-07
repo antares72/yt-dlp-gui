@@ -220,3 +220,4 @@ __marimo__/
 # ytdlp-gui specific
 config.json
 config.tmp
+src/ytdlp_gui/resources/bin/*.exe
