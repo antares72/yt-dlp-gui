@@ -56,7 +56,7 @@ It supports single videos, full playlists, audio-only extraction, subtitle embed
 
 ## Usage
 
-1. Paste a video or playlist URL into the URL bar (or drag a link onto the window) and click **Analyze**.
+1. Paste a video or playlist URL into the URL bar and click **Analyze**.
 2. If it's a playlist, choose which videos to include in the dialog that appears.
 3. Pick **Video + Audio**, **Video Only**, or **Audio Only** mode, then select a quality from the table.
 4. Optionally turn on subtitle/thumbnail/metadata embedding, choose an audio conversion format, and set the output folder.
