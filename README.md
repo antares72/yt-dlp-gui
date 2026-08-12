@@ -24,7 +24,7 @@ It supports single videos, full playlists, audio-only extraction, subtitle embed
 ## Features
 
 - 🔗 **Paste & analyze** — drop a URL and instantly see every available quality
-- 🎚️ **Format table** — sortable table of resolutions, quality, and file sizes, with separate modes for Video+Audio / Video Only / Audio Only
+- 🎚️ **Format table** — sortable table of resolutions, quality, and file sizes, with separate modes for Video + Audio / Video Only / Audio Only
 - 📋 **Playlist support** — pick exactly which videos to download from a playlist, with search and select-all
 - 🎵 **Audio extraction** — convert to MP3, M4A, FLAC, Opus, WAV, or OGG
 - 📥 **Download queue** — download several videos at once, with automatic retry and no overwriting of existing files
