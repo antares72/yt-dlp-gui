@@ -49,7 +49,7 @@ It supports single videos, full playlists, audio-only extraction, subtitle embed
 ## Installation
 
 1. Go to the [Releases](../../releases) page.
-2. Download the latest `ytdlp-gui.exe`.
+2. Download the latest `yt-dlp-gui.exe`.
 3. Run it — no installation or extra setup required. Everything needed (including FFmpeg) is bundled inside.
 
 > Windows may show a SmartScreen warning for unrecognized publishers on first run. Click **More info → Run anyway** to proceed.
