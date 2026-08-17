@@ -32,7 +32,7 @@ It supports single videos, full playlists, audio-only extraction, subtitle embed
 - 🍪 **Works with private/age-restricted videos** — pull cookies from your browser (Chrome, Firefox, Edge, Safari, and more) for content that needs you to be logged in
 - 🌗 **Dark & light themes**
 - 🚦 **Speed limit** — cap download speed so it doesn't hog your connection
-- 📜 **Log panel** — see exactly what's happening if a download fails
+- 📜 **Log panel** — see exactly what's happening if a download fails.
 
 ![Core workflow demo](docs/screenshots/demo-workflow.gif)
 
